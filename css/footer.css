@@ -1,0 +1,6 @@
+.footer {
+    grid-area: ft;
+    display: flex;
+    justify-content: center;
+    background-color: azure;
+}
